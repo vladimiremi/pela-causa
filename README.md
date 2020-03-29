@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
+    <img alt="Be the Hero" src="front/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -80,7 +80,7 @@ npm start
 ```
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
+  <img alt="Frontend" src="front/src/assets/heroes.png" width="596px" height="574px">
 </p>
 
 ---
