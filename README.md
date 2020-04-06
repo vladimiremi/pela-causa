@@ -85,4 +85,4 @@ npm start
 
 ---
 
-Feito com ♥ by Andre Sampaio :wave:
+Feito com ♥ by Vladimir Costa :wave:
